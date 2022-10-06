@@ -20,6 +20,7 @@ Track deposits, withdrawals, balance, log in/out, create user, display all data 
 
 ### Future
 [ ] Implement backend
+
 [ ] Change color scheme and placeholder graphics
 
 ## :copyright: License information
