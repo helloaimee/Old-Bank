@@ -6,13 +6,21 @@
 
 This is a project completed as part of the MIT xPro Full Stack Development with MERN curriculum, in order to learn the basics of building a web app from scratch. 
 
-## :question: Installation Guidelines
+## Installation Guidelines
 
 Save the files locally - you will find instructions within the 'assets' folder. 
 
-## :clock9: Roadmap of future improvements
-### To do
-- [ ] Implement backend
+## Technology used
+
+Create React App, Bootstrap, React-Bootstrap, Formik, Yup, React Router, ESLint, Prettier, Husky
+
+## Features
+### Current
+Track deposits, withdrawals, balance, log in/out, create user, display all data (persistent for multiple users); fully responsive
+
+### Future
+[] Implement backend
+[] Change color scheme and placeholder graphics
 
 ## :copyright: License information
 MIT License
