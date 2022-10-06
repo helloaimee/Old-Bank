@@ -1,5 +1,7 @@
 # :bank: Bad Bank
 
+<img src="./BadBankPreview.png" alt="Bad Bank Old Version" style="display: inline-block; margin: 0 auto; max-width: 100%">
+
 ## :two_hearts: Description
 
 This is a project completed as part of the MIT xPro Full Stack Development with MERN curriculum, in order to learn the basics of building a web app from scratch. 
