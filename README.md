@@ -19,8 +19,8 @@ Create React App, Bootstrap, React-Bootstrap, Formik, Yup, React Router, ESLint,
 Track deposits, withdrawals, balance, log in/out, create user, display all data (persistent for multiple users); fully responsive
 
 ### Future
-[] Implement backend
-[] Change color scheme and placeholder graphics
+[ ] Implement backend
+[ ] Change color scheme and placeholder graphics
 
 ## :copyright: License information
 MIT License
